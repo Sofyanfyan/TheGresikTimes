@@ -1,0 +1,48 @@
+{
+  "News": [
+    {
+      "id": 1,
+      "title": "Berita 1",
+      "slug": "Berita-1",
+      "content": "Content 1",
+      "imgUrl": "https://dummyimage.com/600x400/000/fff",
+      "categoryId": 3,
+      "tag": "Takut",
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "title": "Berita 2",
+      "slug": "Berita-2",
+      "content": "Content 2",
+      "imgUrl": "https://dummyimage.com/600x400/000/fff",
+      "categoryId": 2,
+      "tag": "GerakanSehat",
+      "authorId": 1
+    },
+    {
+      "id": 3,
+      "title": "Berita 3",
+      "slug": "Berita-3",
+      "content": "Content 3",
+      "imgUrl": "https://dummyimage.com/600x400/000/fff",
+      "categoryId": 1,
+      "tag": "GerakanSehat",
+      "authorId": 2
+    }
+  ],
+  "Category": [
+    {
+      "id": 1,
+      "name": "Olahraga"
+    },
+    {
+      "id": 2,
+      "name": "Kesehatan"
+    },
+    {
+      "id": 3,
+      "name": "Politik"
+    }
+  ]
+}
